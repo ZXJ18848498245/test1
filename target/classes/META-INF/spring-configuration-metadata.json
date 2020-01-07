@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.zxj.springboot_quick2.controller.Quick2Controller",
+      "sourceType": "com.zxj.springboot_quick2.controller.Quick2Controller"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.zxj.springboot_quick2.controller.Quick2Controller"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.zxj.springboot_quick2.controller.Quick2Controller"
+    }
+  ],
+  "hints": []
+}
